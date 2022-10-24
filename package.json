@@ -6,6 +6,7 @@
   "author": "Aaron Goldenthal <aaron.goldenthal@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@aarongoldenthal/eslint-config-standard": "^17.0.0",
     "@aarongoldenthal/stylelint-config-standard": "^4.0.0"
   }
 }
