@@ -1,0 +1,11 @@
+{
+  "name": "renovate-subgroup-error",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Goldenthal <aaron.goldenthal@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@aarongoldenthal/stylelint-config-standard": "^4.0.0"
+  }
+}
