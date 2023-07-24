@@ -6,6 +6,6 @@
   "author": "Aaron Goldenthal <aaron.goldenthal@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@aarongoldenthal/stylelint-config-standard": "^13.0.0"
+    "@aarongoldenthal/stylelint-config-standard": "^15.0.0"
   }
 }
